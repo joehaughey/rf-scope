@@ -160,3 +160,22 @@ alternative displays
 
 ESP32 or RP2040 versions
 ESP32 or RP2040 versions
+
+📡 Ham Radio Organisations for Beginners
+If you’re new to amateur radio, these national organisations are the best starting points for learning, licensing, and joining local clubs. Each provides beginner guides, exam information, and community support.
+
+🌍 Region	🏢 Organisation	📖 Description	🔗 Official Link
+Worldwide	International Amateur Radio Union (IARU)	Global umbrella body representing amateur radio societies; promotes spectrum protection and international cooperation.	https://www.iaru.org
+United States	ARRL – American Radio Relay League	National association for amateur radio; offers licensing guides, clubs, contests, and emergency communications programs.	https://www.arrl.org
+United Kingdom	RSGB – Radio Society of Great Britain	Official UK body for amateur radio; provides training, licensing guidance, and local club directories.	https://rsgb.org
+China	CRSA – Chinese Radio Sports Association	National organisation managing amateur radio licensing and contests under the Chinese Amateur Radio League.	http://www.crsa.org.cn
+Russia	SRR – Soyuz Radiolyubitelei Rossii (Union of Radio Amateurs of Russia)	National amateur radio society coordinating licensing, contests, and emergency radio networks.	https://www.srr.ru
+Australia	WIA – Wireless Institute of Australia	The world’s oldest national amateur radio society; provides licensing, education, and advocacy.	https://www.wia.org.au
+
+
+💡 Getting Started Tips
+Visit your national organisation’s “Getting Started” or “Licensing” page.
+
+Join a local club listed on their site — most offer beginner training and exam prep.
+
+Explore IARU Region 1 (Europe/Africa), Region 2 (Americas), or Region 3 (Asia‑Pacific) for international band plans and coordination.
