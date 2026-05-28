@@ -179,3 +179,40 @@ Visit your national organisation’s “Getting Started” or “Licensing” pa
 Join a local club listed on their site — most offer beginner training and exam prep.
 
 Explore IARU Region 1 (Europe/Africa), Region 2 (Americas), or Region 3 (Asia‑Pacific) for international band plans and coordination.
+
+🚀 Next Steps for New Operators
+Once you’ve joined your national amateur radio organisation and obtained your licence, here’s how to begin operating confidently:
+
+Get your call sign – Your licensing authority will issue a unique identifier (e.g., M7ABC in the UK or KJ7XYZ in the US). This is your radio identity.
+
+Start simple – Begin with VHF/UHF handheld or mobile radios for local contacts. These are inexpensive and easy to use.
+
+Join nets and local repeaters – Listen first, then check in when invited. It’s the best way to learn etiquette and meet other operators.
+
+Explore HF bands – When ready, move to shortwave (HF) for worldwide communication. Learn about propagation, antennas, and band conditions.
+
+Log your contacts – Keep a station log (paper or digital). It helps track progress and QSL confirmations.
+
+Experiment and build – Try antennas, SDRs, or Arduino‑based signal tools like your RF Scope project. Amateur radio thrives on experimentation.
+
+Stay curious – Read your national organisation’s magazine, join contests, and follow IARU updates for global developments.
+
+🔧 Recommended Starter Equipment
+🌍 Region	📻 Typical Beginner Radio	📡 Antenna Type	🔋 Power Supply	🧰 Notes
+United States	Baofeng UV‑5R or Yaesu FT‑65	Dual‑band whip or mag‑mount	12 V DC supply or Li‑ion pack	Affordable handhelds; ARRL guides cover setup and repeater use.
+United Kingdom	Yaesu FT‑4X or Icom IC‑V86	2 m/70 cm whip or collinear	13.8 V PSU or battery pack	RSGB Foundation licence training includes radio basics and antenna safety.
+China	Quansheng UV‑K5 or TYT TH‑UV88	Dual‑band whip	USB‑charged Li‑ion	Widely available; CRSA clubs often help with programming and band plans.
+Russia	Alinco DJ‑500 or Baofeng UV‑82	2 m/70 cm whip	12 V DC or internal battery	SRR regional groups assist with repeater coordination and call‑sign registration.
+Australia	Yaesu FT‑70DR or Icom IC‑T10	2 m/70 cm whip or mobile mag‑mount	13.8 V PSU or car adapter	WIA recommends starting with VHF/UHF handhelds before HF expansion.
+
+
+💡 Starter Advice
+Begin with VHF/UHF handhelds for local contacts — simple, safe, and inexpensive.
+
+Use a mag‑mount antenna if operating from a vehicle or indoors near a window.
+
+Always check your national band plan before transmitting.
+
+Upgrade gradually: HF transceivers, directional antennas, and SDRs come later.
+
+Keep your first setup portable — it encourages experimentation and learning.
