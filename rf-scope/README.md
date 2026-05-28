@@ -1,5 +1,6 @@
  
 
+rf-scope
 
 RF Scope – Arduino A0 + TM1637 Display + USB/WebSocket Dock
 This project reads an RF‑related envelope or detector output on Arduino Uno A0, applies a correction curve, displays the processed value on a TM1637 4‑digit 7‑segment display, and streams live JSON data over USB to a Python WebSocket bridge for viewing in a browser.
