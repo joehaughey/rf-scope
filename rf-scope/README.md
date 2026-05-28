@@ -183,6 +183,51 @@ Explore IARU Region 1 (Europe/Africa), Region 2 (Americas), or Region 3 (Asia‑
 🚀 Next Steps for New Operators
 Once you’ve joined your national amateur radio organisation and obtained your licence, here’s how to begin operating confidently:
 
+
+🛡️ Safety and Operating Etiquette
+Amateur radio is both a technical and social hobby. Following good safety and etiquette ensures reliable operation and respect for the spectrum.
+
+⚡ Electrical & RF Safety
+Always ground your equipment properly — use a dedicated earth rod or bonded ground bus.
+
+Keep coax connectors and exposed terminals insulated to prevent accidental contact.
+
+Avoid transmitting near sensitive electronics or medical devices.
+
+Be aware of RF exposure limits — maintain safe distances from antennas during transmission.
+
+Use fused power supplies and check polarity before connecting radios or amplifiers.
+
+Never operate high‑power transmitters indoors or near people.
+
+🌩️ Lightning & Grounding
+Install a lightning arrestor or surge protector on outdoor antennas.
+
+Disconnect coax and power leads during storms.
+
+Bond all grounds (radio, mast, and electrical) to a single point to prevent potential differences.
+
+🎙️ On‑Air Etiquette
+Listen before transmitting — ensure the frequency is clear.
+
+Identify yourself with your call sign at regular intervals.
+
+Keep transmissions concise and courteous.
+
+Avoid political, commercial, or offensive content — amateur bands are for technical and personal communication.
+
+Respect band plans and regional frequency allocations.
+
+When joining nets, wait for the net control operator to invite check‑ins.
+
+🧠 Good Practice
+Log your contacts accurately.
+
+Share knowledge with newcomers.
+
+Maintain your equipment and antennas regularly.
+
+Follow your national regulations — they protect your licence and the hobby’s reputation.
 Get your call sign – Your licensing authority will issue a unique identifier (e.g., M7ABC in the UK or KJ7XYZ in the US). This is your radio identity.
 
 Start simple – Begin with VHF/UHF handheld or mobile radios for local contacts. These are inexpensive and easy to use.
