@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RF A0 Monitor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>RF A0 Monitor</h1>
+
+  <div class="panel">
+    <div class="row">
+      <span class="label">Raw:</span>
+      <span id="raw" class="value">-</span>
+    </div>
+    <div class="row">
+      <span class="label">Corrected:</span>
+      <span id="cor" class="value">-</span>
+    </div>
+    <div class="row">
+      <span class="label">Volts:</span>
+      <span id="volts" class="value">-</span>
+    </div>
+  </div>
+
+  <p class="status" id="status">Connecting to WebSocket…</p>
+
+  <script src="ws.js"></script>
+</body>
+</html>
